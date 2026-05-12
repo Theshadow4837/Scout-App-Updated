@@ -1,49 +1,51 @@
 import { useState, useEffect, useRef } from "react";
 
-import { initializeApp } from "firebase/app";
-import {
-  getFirestore, collection, doc, getDoc, getDocs, addDoc, setDoc,
-  updateDoc, deleteDoc, query, where, orderBy, onSnapshot,
-} from "firebase/firestore";
+// ─── Local REST API (json-server at localhost:3001, user: Programming) ────────
+const API = "http://localhost:3001";
+const USERNAME = "Programming";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyD3VtafdLY9gE63CnAnzk-qavhWWeO4tPU",
-  authDomain: "scout-app-70b08.firebaseapp.com",
-  databaseURL: "https://scout-app-70b08-default-rtdb.firebaseio.com",
-  projectId: "scout-app-70b08",
-  storageBucket: "scout-app-70b08.firebasestorage.app",
-  messagingSenderId: "912422075604",
-  appId: "1:912422075604:web:f3fd1c921bc40401494f41",
-  measurementId: "G-9SN148MP4E",
-};
+async function apiReq(method, path, body) {
+  const opts = { method, headers: { "Content-Type": "application/json" } };
+  if (body !== undefined) opts.body = JSON.stringify(body);
+  const r = await fetch(`${API}${path}`, opts);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
 
-const app = initializeApp(firebaseConfig);
-const db  = getFirestore(app);
+// Build query string from a filters object
+function qs(filters) {
+  const p = new URLSearchParams(filters).toString();
+  return p ? `?${p}` : "";
+}
 
-// ─── Firebase helpers ────────────────────────────────────────────────────────
 async function fbSelect(col, filters = {}) {
-  const ref = collection(db, col);
-  const constraints = Object.entries(filters).map(([k, v]) => where(k, "==", v));
-  const q = constraints.length ? query(ref, ...constraints) : ref;
-  const snap = await getDocs(q);
-  return snap.docs.map(d => ({ id: d.id, ...d.data() }));
+  return apiReq("GET", `/${col}${qs(filters)}`);
 }
 async function fbInsert(col, row) {
-  if (row.id) { const ref = doc(db, col, row.id); await setDoc(ref, row); return row; }
-  const ref = await addDoc(collection(db, col), row);
-  return { ...row, id: ref.id };
+  // Check if record already exists; if so PATCH, otherwise POST
+  if (row.id) {
+    try {
+      await apiReq("GET", `/${col}/${row.id}`);
+      await apiReq("PATCH", `/${col}/${row.id}`, row);
+      return row;
+    } catch {
+      const created = await apiReq("POST", `/${col}`, row);
+      return created;
+    }
+  }
+  return apiReq("POST", `/${col}`, row);
 }
 async function fbUpdate(col, filters, patch) {
   const rows = await fbSelect(col, filters);
-  await Promise.all(rows.map(r => updateDoc(doc(db, col, r.id), patch)));
+  await Promise.all(rows.map(r => apiReq("PATCH", `/${col}/${r.id}`, patch)));
   return rows[0] ? { ...rows[0], ...patch } : null;
 }
 async function fbDelete(col, filters) {
   const rows = await fbSelect(col, filters);
-  await Promise.all(rows.map(r => deleteDoc(doc(db, col, r.id))));
+  await Promise.all(rows.map(r => apiReq("DELETE", `/${col}/${r.id}`)));
 }
 async function fbDeleteById(col, id) {
-  await deleteDoc(doc(db, col, id));
+  await apiReq("DELETE", `/${col}/${id}`);
 }
 
 // ─── IndexedDB ───────────────────────────────────────────────────────────────
@@ -280,7 +282,7 @@ function AuthScreen({ onLogin, online }) {
         }
         onLogin(user);
       }
-    } catch { setErr(online ? "Server error — check your Firebase credentials." : "Offline and no cache found."); }
+    } catch { setErr(online ? "Server error — check that json-server is running on port 3001." : "Offline and no cache found."); }
     setBusy(false);
   }
 

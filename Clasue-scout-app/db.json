@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "eMeKeD5p-oQ",
+      "username": "JanikD",
+      "password_hash": "-53ceeda3",
+      "created_at": "2026-05-11T03:37:26.595Z"
+    }
+  ],
+  "teams": [
+    {
+      "id": "ECmJxX4FlHw",
+      "number": "6390",
+      "name": "Hephaustus",
+      "password": "D4MJ8RCC",
+      "owner_id": "eMeKeD5p-oQ",
+      "created_at": "2026-05-11T03:37:53.517Z"
+    }
+
+  ],
+  "memberships": [
+    {
+      "id": "0_mPEBmDeCs",
+      "team_id": "ECmJxX4FlHw",
+      "user_id": "eMeKeD5p-oQ",
+      "username": "JanikD",
+      "role": "owner"
+    }
+  ],
+  "forms": [],
+  "submissions": [],
+  "messages": [],
+  "announcements": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
