@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './frc-scout-app-FireB.jsx' //For Online DataBase Saving(FireBase)
-// import App from './frc-scout-app-Local.jsx' //For Local File Saving (Self Hosting)
+// import App from './frc-scout-app-FireB.jsx' //For Online DataBase Saving(FireBase)
+import App from './frc-scout-app-local.jsx' //For Local File Saving (Self Hosting)
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
