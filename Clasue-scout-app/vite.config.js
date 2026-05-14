@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 export default defineConfig({
 server: {
     host: '0.0.0.0',
-    allowedHosts: ['server.tail4582.ts.net']
+    allowedHosts: ['6390.tailc4582.ts.net']
   },
   plugins: [
     react(),
