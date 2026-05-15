@@ -4,17 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
-<<<<<<< HEAD
     "dev": "concurrently \"node server.js\" \"vite\"",
     "build": "vite build",
-=======
+
     "dev": "concurrently \"node server.cjs\" \"vite\"",
-=======
+
     "dev": "concurrently \"node server.js\" \"vite\"",
->>>>>>> 78e6aa406a3801d2d69382dce0b90af939f98d64
   "build": "vite build",
->>>>>>> 3db132956310bfbbaf0e67ac8c0fd299dfa7b08f
+
     "lint": "eslint .",
     "preview": "vite preview"
   },
