@@ -1,10 +1,7 @@
 {
   "users": [
     {
-      "id": "eMeKeD5p-oQ",
-      "username": "JanikD",
-      "password_hash": "-53ceeda3",
-      "created_at": "2026-05-11T03:37:26.595Z"
+      
     }
   ],
   "teams": [
@@ -15,11 +12,6 @@
   ],
   "memberships": [
     {
-      "id": "0_mPEBmDeCs",
-      "team_id": "ECmJxX4FlHw",
-      "user_id": "eMeKeD5p-oQ",
-      "username": "JanikD",
-      "role": "owner"
     }
   ],
   "forms": [],

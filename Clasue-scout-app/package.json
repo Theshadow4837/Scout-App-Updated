@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently \"node server.js\" \"vite\"",
-  "build": "vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "concurrently": "^9.2.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
     "firebase": "^12.13.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
