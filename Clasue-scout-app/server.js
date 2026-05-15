@@ -59,8 +59,7 @@ app.get("/api/:store/:id", (req, res) => {
   if (store === "session") return res.json(db.session[req.params.id] ?? null);
 
   const row = (db[store] || []).find(r => r.id === req.params.id);
-  res.json(row ?? null);
-});
+  res.json(row ?? null);});
 
 // POST /api/:store  — insert or upsert a row
 app.post("/api/:store", (req, res) => {

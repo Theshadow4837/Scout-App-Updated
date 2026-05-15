@@ -36,7 +36,7 @@ async function fbDelete(col, filters) {
 async function fbDeleteById(col, id) { await apiCall("DELETE", `/${col}/${id}`); }
 
 // ─── Thin wrappers used directly in the app (session, etc.) ──────────────────
-async function idbGet(store, key) { return apiCall("GET",    `/${store}/${key}`); }
+async function idbGet(store, key) { try { return await apiCall("GET", `/${store}/${key}`); } catch { return null; } }
 async function idbPut(store, val) { return apiCall("POST",   `/${store}`, val); }
 async function idbAll(store)      { return apiCall("GET",    `/${store}`); }
 async function idbDel(store, key) { return apiCall("DELETE", `/${store}/${key}`); }
@@ -134,22 +134,25 @@ export default function App() {
 
   // No online/offline sync needed — all data is local
 
-  // Boot: restore session from local storage
+  // Boot: restore session
   useEffect(() => {
     (async () => {
-      const sess = await idbGet("session", "current");
-      if (sess?.user) {
-        setUser(sess.user);
-        if (sess.team && sess.mem) {
-          // Verify membership still exists locally
-          const mem = await idbGet("memberships", sess.mem.id);
-          if (mem) {
-            setTeam(sess.team); setMem(mem);
-          } else {
-            setUser(sess.user); setTeam(null); setMem(null);
-            await saveSession(sess.user, null, null);
+      try {
+        const sess = await idbGet("session", "current");
+        if (sess?.user) {
+          setUser(sess.user);
+          if (sess.team && sess.mem) {
+            const mem = await idbGet("memberships", sess.mem.id);
+            if (mem) {
+              setTeam(sess.team); setMem(mem);
+            } else {
+              setUser(sess.user); setTeam(null); setMem(null);
+              await saveSession(sess.user, null, null);
+            }
           }
         }
+      } catch (e) {
+        console.error("Boot error (is server.js running?):", e);
       }
       setBooting(false);
     })();
