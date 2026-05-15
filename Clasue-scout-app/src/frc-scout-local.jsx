@@ -1,53 +1,46 @@
 import { useState, useEffect, useRef } from "react";
 
-// ─── LOCAL-ONLY DATABASE (IndexedDB) ─────────────────────────────────────────
-// All data is stored in the browser's IndexedDB on the hosting computer.
-// No Firebase / cloud sync. Data persists across page reloads.
+// ─── SERVER-BACKED DATABASE (db.json via Express) ────────────────────────────
+// All data is saved to db.json on the hosting PC via a local Express server.
+// Multiple users/devices on the same network all share the same data.
 
-// ─── Local DB helpers (IndexedDB-backed, drop-in replacements for Firebase) ───
+const API = "http://localhost:3001/api";
+
+async function apiCall(method, path, body) {
+  const res = await fetch(`${API}${path}`, {
+    method,
+    headers: body ? { "Content-Type": "application/json" } : {},
+    body: body ? JSON.stringify(body) : undefined,
+  });
+  if (!res.ok) throw new Error(`API ${method} ${path} failed: ${res.status}`);
+  return res.json();
+}
+
 async function fbSelect(col, filters = {}) {
-  const rows = await idbAll(col);
-  const entries = Object.entries(filters);
-  if (!entries.length) return rows;
-  return rows.filter(r => entries.every(([k, v]) => r[k] === v));
+  const params = new URLSearchParams(filters).toString();
+  return apiCall("GET", `/${col}${params ? "?" + params : ""}`);
 }
 async function fbInsert(col, row) {
   if (!row.id) row = { ...row, id: uid() };
-  await idbPut(col, row);
-  return row;
+  return apiCall("POST", `/${col}`, row);
 }
 async function fbUpdate(col, filters, patch) {
   const rows = await fbSelect(col, filters);
-  for (const r of rows) await idbPut(col, { ...r, ...patch });
+  for (const r of rows) await apiCall("PATCH", `/${col}/${r.id}`, patch);
   return rows[0] ? { ...rows[0], ...patch } : null;
 }
 async function fbDelete(col, filters) {
   const rows = await fbSelect(col, filters);
-  for (const r of rows) await idbDel(col, r.id);
+  for (const r of rows) await apiCall("DELETE", `/${col}/${r.id}`);
 }
-async function fbDeleteById(col, id) { await idbDel(col, id); }
+async function fbDeleteById(col, id) { await apiCall("DELETE", `/${col}/${id}`); }
 
-// ─── IndexedDB ────────────────────────────────────────────────────────────────
-function idbOpen() {
-  return new Promise((res, rej) => {
-    const r = indexedDB.open("frc_scout", 6);
-    r.onupgradeneeded = e => {
-      const db = e.target.result;
-      ["users","teams","memberships","forms","submissions","session","announcements","scout_events","pit_scouts"].forEach(s => {
-        if (!db.objectStoreNames.contains(s))
-          db.createObjectStore(s, { keyPath: s === "session" ? "key" : "id" });
-      });
-      if (!db.objectStoreNames.contains("pending"))
-        db.createObjectStore("pending", { keyPath: "id", autoIncrement: true });
-    };
-    r.onsuccess = () => res(r.result);
-    r.onerror   = () => rej(r.error);
-  });
-}
-async function idbGet(store, key) { const db = await idbOpen(); return new Promise((res,rej) => { const r = db.transaction(store).objectStore(store).get(key); r.onsuccess=()=>res(r.result); r.onerror=rej; }); }
-async function idbPut(store, val) { const db = await idbOpen(); return new Promise((res,rej) => { const tx=db.transaction(store,"readwrite"); tx.objectStore(store).put(val); tx.oncomplete=res; tx.onerror=rej; }); }
-async function idbAll(store)      { const db = await idbOpen(); return new Promise((res,rej) => { const r=db.transaction(store).objectStore(store).getAll(); r.onsuccess=()=>res(r.result); r.onerror=rej; }); }
-async function idbDel(store, key) { const db = await idbOpen(); return new Promise((res,rej) => { const tx=db.transaction(store,"readwrite"); tx.objectStore(store).delete(key); tx.oncomplete=res; tx.onerror=rej; }); }
+// ─── Thin wrappers used directly in the app (session, etc.) ──────────────────
+async function idbGet(store, key) { return apiCall("GET",    `/${store}/${key}`); }
+async function idbPut(store, val) { return apiCall("POST",   `/${store}`, val); }
+async function idbAll(store)      { return apiCall("GET",    `/${store}`); }
+async function idbDel(store, key) { return apiCall("DELETE", `/${store}/${key}`); }
+
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const uid    = () => (crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).slice(2)+Date.now().toString(36));
