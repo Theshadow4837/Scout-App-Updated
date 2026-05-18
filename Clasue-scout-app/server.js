@@ -9,7 +9,7 @@ const __dirname  = path.dirname(__filename);
 
 const app    = express();
 const DB_FILE = path.join(__dirname, "db.json");
-const PORT   = 3001;
+const PORT   = 5173;
 
 app.use(cors());
 app.use(express.json({ limit: "10mb" }));
