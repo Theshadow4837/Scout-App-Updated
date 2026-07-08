@@ -6,12 +6,6 @@
   "scripts": {
     "dev": "concurrently \"node server.js\" \"vite\"",
     "build": "vite build",
-
-    "dev": "concurrently \"node server.cjs\" \"vite\"",
-
-    "dev": "concurrently \"node server.js\" \"vite\"",
-  "build": "vite build",
-
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -20,6 +14,8 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "firebase": "^12.13.0",
+    "i": "^0.3.7",
+    "idn": "^0.2.1",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
   },
