@@ -1,0 +1,3229 @@
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:00:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:01:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:02:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:03:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:04:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:05:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:06:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:07:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:08:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:09:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:10:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:11:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:12:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+/home/janik/Scout-App-Updated/deploy.sh: line 21: npm: command not found
+---BUILDING---
+/home/janik/Scout-App-Updated/deploy.sh: line 24: npm: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:13:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_13_13_864Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_13_16_309Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:14:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_14_03_426Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_14_05_471Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:15:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_15_04_514Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_15_06_536Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:16:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_16_03_506Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_16_05_555Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:17:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_17_03_562Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_17_05_573Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:18:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_18_03_583Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_18_05_598Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:19:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_19_03_849Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_19_06_230Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:20:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_20_03_309Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_20_05_442Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:21:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_21_03_359Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_21_05_403Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:22:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_22_03_370Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_22_05_364Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:23:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_23_03_301Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_23_05_291Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:24:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_24_03_389Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_24_05_373Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:25:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_25_03_470Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_25_05_484Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:26:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_26_03_447Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_26_05_487Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:27:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_27_03_622Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_27_05_713Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:28:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_28_03_748Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_28_05_865Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:29:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_29_02_876Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_29_05_035Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:30:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_30_02_979Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_30_05_070Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:31:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_31_03_168Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_31_05_186Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:32:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_32_03_182Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_32_05_228Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:33:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_33_03_212Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_33_05_243Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:34:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_34_03_348Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_34_05_408Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:35:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_35_03_589Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_35_05_754Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 31: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:36:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_36_03_792Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_36_05_867Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:37:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_37_02_857Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_37_04_924Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [127: command not found
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:38:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_38_02_869Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_38_04_859Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:39:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_39_02_886Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_39_05_129Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:40:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_40_03_137Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_40_05_218Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:41:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_41_03_245Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_41_05_428Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:42:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_42_03_604Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_42_05_732Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:43:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_43_03_765Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_43_05_844Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:44:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_44_02_924Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_44_05_003Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:45:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_45_03_030Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_45_05_140Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:46:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_46_03_181Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_46_05_195Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 38: Echo: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:47:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_47_03_225Z-debug-0.log
+---BUILDING---
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_47_05_350Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:48:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_48_03_444Z-debug-0.log
+---BUILDING---
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_48_05_500Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:49:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_49_03_526Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_49_05_786Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:50:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_50_03_775Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_50_05_980Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: DIR: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 4: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 9: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:51:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_51_03_215Z-debug-0.log
+---BUILDING---
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_51_05_344Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 27: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 32: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 6: cd: ~/Scout-App-Updated/Clasue-scout-app: No such file or directory
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:52:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_52_03_338Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_52_05_329Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 26: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 6: cd: ~/Scout-App-Updated/Clasue-scout-app: No such file or directory
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:53:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_53_03_373Z-debug-0.log
+---BUILDING---
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_53_05_414Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 26: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 6: cd: ~/Scout-App-Updated/Clasue-scout-app: No such file or directory
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:54:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_54_03_759Z-debug-0.log
+---BUILDING---
+---FINISHED---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_54_05_939Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 26: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 6: cd: ~/Scout-App-Updated/Clasue-scout-app: No such file or directory
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:55:01 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_55_02_826Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_55_04_751Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 26: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:56:02 PM PDT
+---FINISHED---
+---FINISHED---
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 6: cd: home/janik/Scout-App-Updated/Clasue-scout-app: No such file or directory
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:57:02 PM PDT
+fatal: not a git repository (or any of the parent directories): .git
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_57_03_658Z-debug-0.log
+---BUILDING---
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/janik/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/janik/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/janik/.npm/_logs/2026-07-12T06_57_05_615Z-debug-0.log
+/home/janik/Scout-App-Updated/deploy.sh: line 26: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+/home/janik/Scout-App-Updated/deploy.sh: line 19: gin: command not found
+
+added 5 packages, and audited 616 packages in 20s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+/home/janik/Scout-App-Updated/deploy.sh: line 37: unexpected EOF while looking for matching `"'
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:58:01 PM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 745ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+/home/janik/Scout-App-Updated/deploy.sh: line 26: [: missing `]'
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sat 11 Jul 2026 11:59:01 PM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 731ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:00:01 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 847ms
+
+PWA v1.3.0
+mode      generateSW
+precache  7 entries (740.07 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:01:02 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 672ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 3: Name: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 8: [-f: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:02:02 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 761ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 7: [-f: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:03:01 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 12s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 869ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+/home/janik/Scout-App-Updated/deploy.sh: line 7: [-f: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:04:01 AM PDT
+Already Deploying
+Already Deploying
+fatal: unable to access 'https://github.com/Theshadow4837/Scout-App-Updated/': Failed to connect to github.com port 443 after 135037 ms: Could not connect to server
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 864ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 31: pm2: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:07:01 AM PDT
+Already Deploying
+Already Deploying
+fatal: unable to access 'https://github.com/Theshadow4837/Scout-App-Updated/': Failed to connect to github.com port 443 after 133464 ms: Could not connect to server
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 711ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:10:01 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 10s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 776ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:11:02 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 10s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 750ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:12:01 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 10s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 725ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:13:01 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 722ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+---DEPLOYING--- Sun 12 Jul 2026 12:14:01 AM PDT
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+up to date, audited 616 packages in 11s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+---BUILDING---
+
+> scout-app@0.0.0 build
+> vite build
+
+vite v8.0.11 building client environment for production...
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-RJQaPNp4.js  292.73 kB │ gzip: 82.02 kB
+
+✓ built in 805ms
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+---STARTING---
+/home/janik/Scout-App-Updated/deploy.sh: line 30: pm2: command not found
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
+Already Deploying
