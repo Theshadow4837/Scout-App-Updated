@@ -100,12 +100,12 @@ log "--- BUILDING ---"
 npm run build
 
 log "--- RESTARTING $APP_NAME FROM CURRENT BUILD ---"
-if pm2_run list | grep -q "$APP_NAME"; then
-  sudo pm2_run restart "$APP_NAME" --update-env || (sudo pm2_run delete "$APP_NAME" && sudo pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env)
+if pm2 list | grep -q "$APP_NAME"; then
+  sudo pm2 restart "$APP_NAME" --update-env || (sudo pm2 delete "$APP_NAME" && sudo pm2 start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env)
 else
-  sudo pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env || true
+  sudo pm2 start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env || true
 fi
-sudo pm2_run save
+sudo pm2 save
 
 health_check
 
