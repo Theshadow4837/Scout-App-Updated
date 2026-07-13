@@ -8,7 +8,11 @@ const DB_FILE = path.join(__dirname, "db.json");
 const PORT   = 3001;
 
 app.use(cors());
-app.use(express.json({ limit: "10mb" }));
+app.use(express.static(path.join(__dirname, "dist")));
+
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "dist", "index.html"));
+});
 
 // ─── db.json helpers ──────────────────────────────────────────────────────────
 const STORES = ["users","teams","memberships","forms","submissions","session",
