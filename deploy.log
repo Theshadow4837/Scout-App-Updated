@@ -3274,3 +3274,211 @@ files generated
 [2026-07-12 18:41:15 PDT] --- STARTING Scout-App ---
 /mnt/c/Users/Programming/AppData/Roaming/npm/pm2: 15: exec: node: Permission denied
 [2026-07-12 18:41:15 PDT] Deploy failed on line 34.
+[2026-07-12 18:44:14 PDT] --- DEPLOY START ---
+[2026-07-12 18:44:14 PDT] Repo: /mnt/c/Users/Programming/Documents/GitHub/Scout-App-Updated
+[2026-07-12 18:44:14 PDT] App:  /mnt/c/Users/Programming/Documents/GitHub/Scout-App-Updated/Clasue-scout-app
+[2026-07-12 18:44:14 PDT] Branch: origin/main
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+npm warn deprecated source-map@0.8.0-beta.0: The work that was done in this beta branch won't be included in future versions
+npm warn deprecated glob@11.1.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+
+added 613 packages, and audited 614 packages in 14s
+
+144 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+[2026-07-12 18:44:30 PDT] --- BUILDING ---
+
+> scout-app@0.0.0 build
+> vite build
+
+[36mvite v8.0.11 [32mbuilding client environment for production...[36m[39m
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-Djvw73Ye.js  292.74 kB │ gzip: 82.02 kB
+
+[32m✓ built in 101ms[39m
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+[2026-07-12 18:44:33 PDT] --- RESTARTING Scout-App ---
+[PM2] Applying action restartProcessId on app [Scout-App](ids: [ 0 ])
+[PM2] [Scout-App](0) ✓
+┌────┬──────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name         │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ Scout-App    │ default     │ 0.0.0   │ fork    │ 35560    │ 0s     │ 4    │ online    │ 0%       │ 57.8mb   │ Program… │ disabled │
+└────┴──────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+host metrics | cpu: 16.2% | ram usage: 61.9% | disk: ⇓ 0mb/s ⇑ 0mb/s |
+[PM2] Saving current process list...
+[PM2] Successfully saved in C:\Users\Programming\.pm2\dump.pm2
+[TAILING] Tailing last 80 lines for [Scout-App] process (change the value with --lines option)
+C:\Users\Programming\.pm2\logs\Scout-App-error.log last 80 lines:
+0|Scout-Ap |   originalPath: '*'
+0|Scout-Ap | }
+0|Scout-Ap | 
+0|Scout-Ap | Node.js v26.1.0
+0|Scout-Ap | C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108
+0|Scout-Ap |                     throw new PathError(`Missing parameter name at index ${index}`, str);
+0|Scout-Ap |                     ^
+0|Scout-Ap | 
+0|Scout-Ap | PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+0|Scout-Ap |     at consumeUntil (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108:27)
+0|Scout-Ap |     at parse (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:140:26)
+0|Scout-Ap |     at process (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:263:56)
+0|Scout-Ap |     at pathToRegexp (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:274:5)
+0|Scout-Ap |     at Object.match (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:225:30)
+0|Scout-Ap |     at matcher (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:86:23)
+0|Scout-Ap |     at new Layer (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:93:62)
+0|Scout-Ap |     at router.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\index.js:428:17)
+0|Scout-Ap |     at app.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:257:22)
+0|Scout-Ap |     at app.<computed> [as get] (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:478:22) {
+0|Scout-Ap |   originalPath: '*'
+0|Scout-Ap | }
+0|Scout-Ap | 
+0|Scout-Ap | Node.js v26.1.0
+0|Scout-Ap | C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108
+0|Scout-Ap |                     throw new PathError(`Missing parameter name at index ${index}`, str);
+0|Scout-Ap |                     ^
+0|Scout-Ap | 
+0|Scout-Ap | PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+0|Scout-Ap |     at consumeUntil (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108:27)
+0|Scout-Ap |     at parse (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:140:26)
+0|Scout-Ap |     at process (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:263:56)
+0|Scout-Ap |     at pathToRegexp (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:274:5)
+0|Scout-Ap |     at Object.match (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:225:30)
+0|Scout-Ap |     at matcher (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:86:23)
+0|Scout-Ap |     at new Layer (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:93:62)
+0|Scout-Ap |     at router.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\index.js:428:17)
+0|Scout-Ap |     at app.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:257:22)
+0|Scout-Ap |     at app.<computed> [as get] (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:478:22) {
+0|Scout-Ap |   originalPath: '*'
+0|Scout-Ap | }
+0|Scout-Ap | 
+0|Scout-Ap | Node.js v26.1.0
+0|Scout-Ap | C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108
+0|Scout-Ap |                     throw new PathError(`Missing parameter name at index ${index}`, str);
+0|Scout-Ap |                     ^
+0|Scout-Ap | 
+0|Scout-Ap | PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+0|Scout-Ap |     at consumeUntil (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108:27)
+0|Scout-Ap |     at parse (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:140:26)
+0|Scout-Ap |     at process (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:263:56)
+0|Scout-Ap |     at pathToRegexp (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:274:5)
+0|Scout-Ap |     at Object.match (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:225:30)
+0|Scout-Ap |     at matcher (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:86:23)
+0|Scout-Ap |     at new Layer (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:93:62)
+0|Scout-Ap |     at router.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\index.js:428:17)
+0|Scout-Ap |     at app.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:257:22)
+0|Scout-Ap |     at app.<computed> [as get] (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:478:22) {
+0|Scout-Ap |   originalPath: '*'
+0|Scout-Ap | }
+0|Scout-Ap | 
+0|Scout-Ap | Node.js v26.1.0
+0|Scout-Ap | C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108
+0|Scout-Ap |                     throw new PathError(`Missing parameter name at index ${index}`, str);
+0|Scout-Ap |                     ^
+0|Scout-Ap | 
+0|Scout-Ap | PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+0|Scout-Ap |     at consumeUntil (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:108:27)
+0|Scout-Ap |     at parse (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:140:26)
+0|Scout-Ap |     at process (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:263:56)
+0|Scout-Ap |     at pathToRegexp (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:274:5)
+0|Scout-Ap |     at Object.match (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\path-to-regexp\dist\index.js:225:30)
+0|Scout-Ap |     at matcher (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:86:23)
+0|Scout-Ap |     at new Layer (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\lib\layer.js:93:62)
+0|Scout-Ap |     at router.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\router\index.js:428:17)
+0|Scout-Ap |     at app.route (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:257:22)
+0|Scout-Ap |     at app.<computed> [as get] (C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\node_modules\express\lib\application.js:478:22) {
+0|Scout-Ap |   originalPath: '*'
+0|Scout-Ap | }
+0|Scout-Ap | 
+0|Scout-Ap | Node.js v26.1.0
+
+C:\Users\Programming\.pm2\logs\Scout-App-out.log last 80 lines:
+0|Scout-Ap | FRC Scout DB server running on http://localhost:3001
+0|Scout-Ap | Data file: C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\db.json
+0|Scout-Ap | FRC Scout DB server running on http://localhost:3001
+0|Scout-Ap | Data file: C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\db.json
+0|Scout-Ap | FRC Scout DB server running on http://localhost:3001
+0|Scout-Ap | Data file: C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\db.json
+0|Scout-Ap | FRC Scout DB server running on http://localhost:3001
+0|Scout-Ap | Data file: C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\db.json
+0|Scout-Ap | FRC Scout DB server running on http://localhost:3001
+0|Scout-Ap | Data file: C:\Users\Programming\Documents\GitHub\Scout-App-Updated\Clasue-scout-app\db.json
+
+[2026-07-12 18:44:55 PDT] ERROR: Health check failed: http://127.0.0.1:3001/
+[2026-07-12 18:45:37 PDT] --- DEPLOY START ---
+[2026-07-12 18:45:37 PDT] Repo: /mnt/c/Users/Programming/Documents/GitHub/Scout-App-Updated
+[2026-07-12 18:45:37 PDT] App:  /mnt/c/Users/Programming/Documents/GitHub/Scout-App-Updated/Clasue-scout-app
+[2026-07-12 18:45:37 PDT] Branch: origin/main
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+From https://github.com/Theshadow4837/Scout-App-Updated
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+npm warn deprecated source-map@0.8.0-beta.0: The work that was done in this beta branch won't be included in future versions
+npm warn deprecated glob@11.1.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+
+added 613 packages, and audited 614 packages in 14s
+
+144 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (1 low, 2 moderate, 3 high, 2 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+[2026-07-12 18:45:54 PDT] --- BUILDING ---
+
+> scout-app@0.0.0 build
+> vite build
+
+[36mvite v8.0.11 [32mbuilding client environment for production...[36m[39m
+[2Ktransforming...✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/manifest.webmanifest        0.33 kB
+dist/index.html                  0.66 kB │ gzip:  0.37 kB
+dist/assets/index-Djvw73Ye.js  292.74 kB │ gzip: 82.02 kB
+
+[32m✓ built in 95ms[39m
+
+PWA v1.3.0
+mode      generateSW
+precache  8 entries (1025.96 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-ee9d8b34.js
+[2026-07-12 18:45:56 PDT] --- RESTARTING Scout-App ---
+[PM2] Applying action restartProcessId on app [Scout-App](ids: [ 0 ])
+[PM2] [Scout-App](0) ✓
+┌────┬──────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name         │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ Scout-App    │ default     │ 0.0.0   │ fork    │ 19636    │ 0s     │ 5    │ online    │ 0%       │ 57.8mb   │ Program… │ disabled │
+└────┴──────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+host metrics | cpu: 29.5% | ram usage: 63.2% | disk: ⇓ 0mb/s ⇑ 0mb/s |
+[PM2] Saving current process list...
+[PM2] Successfully saved in C:\Users\Programming\.pm2\dump.pm2
+[2026-07-12 18:45:59 PDT] Health check passed: http://127.0.0.1:3001/
+[2026-07-12 18:45:59 PDT] --- DEPLOY FINISHED ---
