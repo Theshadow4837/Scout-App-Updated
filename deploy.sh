@@ -98,13 +98,9 @@ fi
 log "--- BUILDING ---"
 npm run build
 
-if pm2_run describe "$APP_NAME" >/dev/null 2>&1; then
-  log "--- RESTARTING $APP_NAME ---"
-  pm2_run restart "$APP_NAME" --update-env
-else
-  log "--- STARTING $APP_NAME ---"
-  pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD"
-fi
+log "--- RESTARTING $APP_NAME FROM CURRENT BUILD ---"
+pm2_run delete "$APP_NAME" >/dev/null 2>&1 || true
+pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env
 
 pm2_run save
 health_check
