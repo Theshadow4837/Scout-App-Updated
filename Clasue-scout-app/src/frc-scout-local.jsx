@@ -240,7 +240,7 @@ export default function App() {
 
       {user && team && (
         <header style={sx.hdr}>
-          <div style={sx.logo}><span style={{color:C.orange}}>⚡</span>FRC·SCOUTING <span style={{color:C.muted, fontSize:11, fontWeight:400}}>#{team.number}</span></div>
+          <div style={sx.logo}><span style={{color:C.orange}}>⚡</span>FRC·SCOUT <span style={{color:C.muted, fontSize:11, fontWeight:400}}>#{team.number}</span></div>
           <div style={{display:"flex", alignItems:"center", gap:8}}>
             <span style={sx.tag(RC[role]||C.muted)}>{role.toUpperCase()}</span>
             <span style={{fontSize:11, color:C.dim}}>{user.username}</span>
