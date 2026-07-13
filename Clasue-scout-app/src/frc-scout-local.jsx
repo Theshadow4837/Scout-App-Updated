@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 // All data is saved to db.json on the hosting PC via a local Express server.
 // Multiple users/devices on the same network all share the same data.
 
-const API = "http://localhost:3001/api";
+const API = `${window.location.origin}/api`;
 
 async function apiCall(method, path, body) {
   const res = await fetch(`${API}${path}`, {

@@ -1,36 +1,109 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -Eeuo pipefail
 
+APP_NAME="Scout-App"
+APP_PORT="${APP_PORT:-3001}"
+BRANCH="${DEPLOY_BRANCH:-main}"
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_DIR="$SCRIPT_DIR"
+APP_DIR="$REPO_DIR/Clasue-scout-app"
+SERVER_PATH="$APP_DIR/server.cjs"
+LOG_FILE="$REPO_DIR/deploy.log"
+LOCK_FILE="$APP_DIR/deploy.lock"
 
-cd ~/Scout-App-Updated/Clasue-scout-app
+export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
 
-if [ -f "deploy.lock" ]; then
-echo "Already Deploying"
-exit 0
+mkdir -p "$(dirname "$LOG_FILE")"
+exec > >(tee -a "$LOG_FILE") 2>&1
+
+log() {
+  printf '[%s] %s\n' "$(date '+%Y-%m-%d %H:%M:%S %Z')" "$*"
+}
+
+die() {
+  log "ERROR: $*"
+  exit 1
+}
+
+require_cmd() {
+  command -v "$1" >/dev/null 2>&1 || die "Required command not found: $1"
+}
+
+pm2_run() {
+  pm2 "$@"
+}
+
+acquire_lock() {
+  if command -v flock >/dev/null 2>&1; then
+    exec 9>"$LOCK_FILE"
+    if ! flock -n 9; then
+      log "Already deploying; exiting."
+      exit 0
+    fi
+    return
+  fi
+
+  if ! mkdir "$LOCK_FILE.d" 2>/dev/null; then
+    log "Already deploying; exiting."
+    exit 0
+  fi
+  trap 'rm -rf "$LOCK_FILE.d"' EXIT
+}
+
+health_check() {
+  local url="http://127.0.0.1:$APP_PORT/"
+  local attempt
+
+  for attempt in {1..20}; do
+    if curl -fsS "$url" >/dev/null 2>&1; then
+      log "Health check passed: $url"
+      return
+    fi
+    sleep 1
+  done
+
+  pm2_run logs "$APP_NAME" --lines 80 --nostream || true
+  die "Health check failed: $url"
+}
+
+trap 'log "Deploy failed on line $LINENO."' ERR
+
+require_cmd git
+require_cmd npm
+require_cmd pm2
+require_cmd curl
+
+acquire_lock
+
+log "--- DEPLOY START ---"
+log "Repo: $REPO_DIR"
+log "App:  $APP_DIR"
+log "Branch: origin/$BRANCH"
+
+cd "$REPO_DIR"
+git fetch origin "$BRANCH"
+git pull --ff-only origin "$BRANCH"
+
+cd "$APP_DIR"
+if [ -f package-lock.json ]; then
+  npm ci
+else
+  npm install
 fi
 
-touch deploy.lock
-
-echo "---DEPLOYING--- $(date)"
-
-
-git pull origin main
-
-npm install
-
-echo "---BUILDING---"
+log "--- BUILDING ---"
 npm run build
 
-pm2 describe $Name > /dev/null 2>&1
-if [ $? -eq 0 ]; then
-echo "---RESTARTING---"
-pm2 restart Scout-App
+if pm2_run describe "$APP_NAME" >/dev/null 2>&1; then
+  log "--- RESTARTING $APP_NAME ---"
+  pm2_run restart "$APP_NAME" --update-env
 else
-echo "---STARTING---"
-pm2 start ~/Scout-App-Updated/Clasue-scout-app/server.cjs --name "Scout-App"
+  log "--- STARTING $APP_NAME ---"
+  pm2_run start "$SERVER_PATH" --name "$APP_NAME" --cwd "$APP_DIR"
 fi
 
+pm2_run save
+health_check
 
-rm deploy.lock
-
-echo "---FINISHED---" >> deploy.log
+log "--- DEPLOY FINISHED ---"
