@@ -76,6 +76,7 @@ require_cmd git
 require_cmd npm
 require_cmd pm2
 require_cmd curl
+require_cmd sudo
 
 acquire_lock
 
@@ -100,12 +101,21 @@ npm run build
 
 log "--- RESTARTING $APP_NAME FROM CURRENT BUILD ---"
 if pm2_run list | grep -q "$APP_NAME"; then
-  pm2_run restart "$APP_NAME" --update-env || (pm2_run delete "$APP_NAME" && pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env)
+  sudo pm2_run restart "$APP_NAME" --update-env || (sudo pm2_run delete "$APP_NAME" && sudo pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env)
 else
-  pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env || true
+  sudo pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env || true
 fi
-pm2_run save
-pm2_run save
+sudo pm2_run save
+
 health_check
+
+# Open a new terminal to show logs for 3 seconds, then close
+if command -v gnome-terminal >/dev/null 2>&1; then
+  gnome-terminal -- bash -c "pm2 logs $APP_NAME; sleep 3; exit" &
+elif command -v xterm >/dev/null 2>&1; then
+  xterm -e "pm2 logs $APP_NAME; sleep 3; exit" &
+else
+  log "Warning: No terminal emulator (gnome-terminal or xterm) found to display logs."
+fi
 
 log "--- DEPLOY FINISHED ---"
