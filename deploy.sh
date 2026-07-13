@@ -12,7 +12,6 @@ SERVER_PATH="$APP_DIR/server.cjs"
 LOG_FILE="$REPO_DIR/deploy.log"
 LOCK_FILE="$APP_DIR/deploy.lock"
 PM2_SERVER_PATH="$SERVER_PATH"
-WINDOWS_BASH=0
 
 export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
 
@@ -32,26 +31,11 @@ require_cmd() {
   command -v "$1" >/dev/null 2>&1 || die "Required command not found: $1"
 }
 
-if command -v cmd.exe >/dev/null 2>&1; then
-  WINDOWS_BASH=1
+PM2_CWD="$APP_DIR"
 
-  if command -v wslpath >/dev/null 2>&1; then
-    PM2_SERVER_PATH="$(wslpath -w "$SERVER_PATH")"
-    PM2_CWD="$(wslpath -w "$APP_DIR")"
-  else
-    PM2_CWD="$APP_DIR"
-  fi
-
-  pm2_run() {
-    cmd.exe /c pm2 "$@"
-  }
-else
-  PM2_CWD="$APP_DIR"
-
-  pm2_run() {
-    pm2 "$@"
-  }
-fi
+pm2_run() {
+  pm2 "$@"
+}
 
 acquire_lock() {
   if command -v flock >/dev/null 2>&1; then
@@ -75,12 +59,7 @@ health_check() {
   local attempt
 
   for attempt in {1..20}; do
-    if [ "$WINDOWS_BASH" -eq 1 ]; then
-      if powershell.exe -NoProfile -Command "Invoke-WebRequest -UseBasicParsing '$url' -TimeoutSec 5 | Out-Null" >/dev/null 2>&1; then
-        log "Health check passed: $url"
-        return
-      fi
-    elif curl -fsS "$url" >/dev/null 2>&1; then
+    if curl -fsS "$url" >/dev/null 2>&1; then
       log "Health check passed: $url"
       return
     fi
@@ -96,11 +75,7 @@ trap 'log "Deploy failed on line $LINENO."' ERR
 require_cmd git
 require_cmd npm
 require_cmd pm2
-if [ "$WINDOWS_BASH" -eq 1 ]; then
-  require_cmd powershell.exe
-else
-  require_cmd curl
-fi
+require_cmd curl
 
 acquire_lock
 
