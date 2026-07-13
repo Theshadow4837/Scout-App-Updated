@@ -100,9 +100,9 @@ npm run build
 
 log "--- RESTARTING $APP_NAME FROM CURRENT BUILD ---"
 if pm2_run list | grep -q "$APP_NAME"; then
-  pm2_run restart "$APP_NAME" --update-env >/dev/null 2>&1 || (pm2_run delete "$APP_NAME" >/dev/null 2>&1 && pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env)
+  pm2_run restart "$APP_NAME" --update-env || (pm2_run delete "$APP_NAME" && pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env)
 else
-  pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env >/dev/null 2>&1 || true
+  pm2_run start "$PM2_SERVER_PATH" --name "$APP_NAME" --cwd "$PM2_CWD" --update-env || true
 fi
 pm2_run save
 pm2_run save
